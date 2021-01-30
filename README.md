@@ -17,4 +17,5 @@ Python GUI for playing music from apps like Spotify
 2. Enter command as `python app.py`
 
 **Please upvote my repo if you find it interesting, and do attach your contributions here as well**
+
 **Happy Learning!!**

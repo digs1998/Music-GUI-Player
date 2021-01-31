@@ -1,5 +1,5 @@
-# Music-GUI
-Python GUI for playing music from apps like Spotify
+# Music GUI Player
+Python GUI for creating a simple version of music apps like Wynk, Spotify
 
 # Libraries Used
 
